@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
   
-class Time
+class Time 
 {
 private:
 	int hours;             // 0 µ½ 23
